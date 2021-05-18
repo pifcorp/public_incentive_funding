@@ -8,16 +8,36 @@ Open Source
 ### Project PIF:
 - Create NFT token for the PIF brand (trademark filed)
 
+- Setup Testnet with Members and Multiple charter school programs
+
 - Build Streamlit Application 
   - Public Incentive Funding Program Directory 
-        - Break out the pif programs by organization (charter school) and specific programs 
+        - Break out the pif programs by organization (charter school) and specific programs
+            - instead of giving to organizations, pi funders are giving through organizations to causes (efficient allocation programs)
         - include public addresses for respective wallets
         - include description and other information needed to write the grant smart contract
+        - we will have our wallets on MetaMask, Binance, Uniswap, Uphold
   - Incorporate "Learn by Doing" Content 
         - Use Project 2: enhance a couple aspects from Project 2 that could be better
+        - this part will be extremely important to build out as the platform increases in popularity
+        - key value add to pi funders 
+        - also key public resource to maintain 501(c)3 status - the IRS will favor the request when they see how much free content we provide to the public!
 
-- Create simple Grant Writing Program/Robot
 
-- Setup Testnet with Members and Multiple charter school programs 
+Beyond 2 weeks (volunteers or "pif programmers" only)
 
-- Start a "PIF Latin" package to improve the grant-writing robot "Yunus"
+- Build simple Grant Writing Program/Robot
+      - every 90 days, a robot will write a grant for each wallet's balance 
+      - each wallet supports its own program - e.g. stem education at RBCS
+
+- Start a "PIF Latin" package 
+
+- Build Charitable Donation Receipt Robot (need 501(c)3 status)
+
+- 
+
+- Determine Membership Structure
+
+- Figure out WordPress, Google Domains and Workspace
+
+- Write By-Laws

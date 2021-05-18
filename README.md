@@ -11,14 +11,18 @@ Open Source
 - Setup Testnet with Members and Multiple charter school programs
 
 - Build Streamlit Application 
-  - Public Incentive Funding Program Directory 
-        - Break out the pif programs by organization (charter school) and specific programs
-            - instead of giving to organizations, pi funders are giving through organizations to causes (efficient allocation programs)
-        - include public addresses for respective wallets
-        - include description and other information needed to write the grant smart contract
-        - we will have our wallets on MetaMask, Binance, Uniswap, Uphold
-  - Incorporate "Learn by Doing" Content 
-        - Use Project 2: enhance a couple aspects from Project 2 that could be better
+  - Public Incentive Funding Program Directory:
+   
+  - Break out the pif programs by organization (charter school) and specific programs
+  - instead of giving to organizations, pi funders are giving through organizations to causes (efficient allocation programs)
+  - include public addresses for respective wallets
+  - include description and other information needed to write the grant smart contract
+  - we will have our wallets on MetaMask, Binance, Uniswap, Uphold
+  
+  
+  - Incorporate "Learn by Doing" Content:
+  
+  - Use Project 2: enhance a couple aspects from Project 2 that could be better
         - this part will be extremely important to build out as the platform increases in popularity
         - key value add to pi funders 
         - also key public resource to maintain 501(c)3 status - the IRS will favor the request when they see how much free content we provide to the public!

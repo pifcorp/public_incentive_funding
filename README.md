@@ -17,7 +17,7 @@ Open Source
    
   - Break out the pif programs by organization (charter school) and specific programs
   - instead of giving to organizations, pi funders are giving through organizations to causes (efficient allocation programs)
-  - include public addresses for respective wallets
+  - include public addresses for respective programs
   - include description and other information needed to write the grant smart contract
   - we will have our wallets on MetaMask, Binance, Uniswap, Uphold
   

@@ -25,9 +25,9 @@ Open Source
   - Incorporate "Learn by Doing" Content:
   
   - Use Project 2: enhance a couple aspects from Project 2 that could be better
-        - this part will be extremely important to build out as the platform increases in popularity
-        - key value add to pi funders 
-        - also key public resource to maintain 501(c)3 status - the IRS will favor the request when they see how much free content we provide to the public!
+   - this part will be extremely important to build out as the platform increases in popularity
+   - key value add to pi funders 
+   - also key public resource to maintain 501(c)3 status - the IRS will favor the request when they see how much free content we provide to the public!
 
 
 Beyond 2 weeks (volunteers or "pif programmers" only)

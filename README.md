@@ -8,7 +8,9 @@ Open Source
 ### Project PIF:
 - Create NFT token for the PIF brand (trademark filed)
 
-- Setup Testnet with Members and Multiple charter school programs
+- Setup Addresses for Public Incentives on Local or Kovan Testnet with Members and Multiple charter school programs
+
+- dApp for Voting and for Copyrighting the programs onto the platform 
 
 - Build Streamlit Application 
   - Public Incentive Funding Program Directory:
@@ -37,8 +39,6 @@ Beyond 2 weeks (volunteers or "pif programmers" only)
 - Start a "PIF Latin" package 
 
 - Build Charitable Donation Receipt Robot (need 501(c)3 status)
-
-- 
 
 - Determine Membership Structure
 

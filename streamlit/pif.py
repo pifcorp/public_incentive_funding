@@ -9,7 +9,40 @@ st.title('Public Incentive Funding')
 
 sidebar = st.sidebar.title("Panels")
 
-select = st.sidebar.selectbox("Select",("Mission", "Programs", "Program Voting", "Copyright"), 1)
+select = st.sidebar.selectbox("Select",("Why", "Problem", "Mission", "Programs", "Program Voting", "Copyright"), 1)
+
+if select == "Why":
+    st.video('https://www.youtube.com/watch?v=u4ZoJKF_VuA')
+    st.subheader("'People don't buy what you do, they buy why you do it.'")
+    st.write("""
+    ## Why 
+    ### Because we have but one obligation
+    May 31st Daily Stoic 
+    "What is your vocation? To be a good person."
+        - Marcus Aurelius, Meditations, 11.5  
+
+    Consitent Theme behind Philosophical Ethics and all Religions is to be good people in 
+    their own way.  PIF Corp exists because it is our obligation and vocation to be Good People.
+    Good People treat all people with respect.  Good People train their skills to become better than most in their field; Being Good at your Job.
+    Good People work hard to augment their skills to monetize their abilities.  They provide for their family and 
+    give back to the community. WHY does PIF Corp exist? Because we believe that it is our 
+    single true obligation in this life: to be a good person. Because we believe that YOU are inherently Good People.  
+    """)
+
+
+if select == "Problem":    
+    st.write("""
+    ## Problem
+    - Access to Education
+    
+    ## How are people trying to solve this problem?
+    - Charter Schools: Red Bank Charter School, Success Academy, KIPP, Classical, Ascend
+    - Free Educational Resources such as Code Academy, 3 Blue 1 Brown, 
+    """)
+    
+    
+
+    st.image("/Users/wesleysapone/PIF/public_incentive_funding/images/law_diffusion_innovation.png")
 
 if select == "Mission":
     

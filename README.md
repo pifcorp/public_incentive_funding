@@ -10,7 +10,7 @@ Open Source
 
 - Setup Addresses for Public Incentives on Local or Kovan Testnet with Members and Multiple charter school programs
 
-- dApp for Voting and for Copyrighting the programs onto the platform 
+- dApp for Auction and for Copyrighting the programs onto the platform 
 
 - Build Streamlit Application 
   - Public Incentive Funding Program Directory:

@@ -71,13 +71,13 @@ if select == "Problem":
     - tustless : controlled by individuals, with a set of rules set by computers that cant be changed.  Every computer gets a copy of the public ledger. All of our donations will be able to be tracked by the public. 
     - Public network : anyone can access the network all you need is internet connection.
     """)
-    st.image("/Users/wesleysapone/PIF/public_incentive_funding/images/Untitled 2.png")
+    
     st.write("""
     - Database : because it stores information on it.  Nonprofits* currently pay tons of money for CRM software systems.  The blockchain only charges gas fees.
     - Computer : each address is equivalent to a node.  nodes are like redundant web servers.  
     - consensus mechanism : not reachd, transaction isn't recorded
     """)
-    st.image("/Users/wesleysapone/PIF/public_incentive_funding/images/byzant.png")
+    
 if select == "Mission":
     
     st.write("""
